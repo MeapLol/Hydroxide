@@ -11,10 +11,8 @@ webImport("init")
 webImport("ui/main")
 ```
 
-# Hydroxide | Modified by perhaps#0309, orginally created by Upbolt
+# Hydroxide | Modified by perhaps#0309
 <i>General purpose pen-testing tool for games on the Roblox engine</i>
-
-Report issues to our Discord server: https://discord.gg/DJxBwAX
 
 <p align="center">
     <img src="https://cdn.discordapp.com/attachments/633472429917995038/722143730500501534/Hydroxide_Logo.png"/>
@@ -40,6 +38,7 @@ Report issues to our Discord server: https://discord.gg/DJxBwAX
     * Log calls of remote objects (RemoteEvent, RemoteFunction, BindableEvent, BindableFunction)
     * Ignore/Block calls based on parameters passed
     * Traceback calling function/closure
+    * Script Generation, with realistic names
 * ClosureSpy
     * Log calls of closures
     * View general information of closures (location, protos, constants, etc.)
@@ -47,7 +46,4 @@ Report issues to our Discord server: https://discord.gg/DJxBwAX
 More to come, soon.
 
 ## Images/Videos
-<p align="center">
-    <img src="https://i.gyazo.com/63afdd764cdca533af5ebca843217a7e.gif" />
-</p>
-
+Coming soon
