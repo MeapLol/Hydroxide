@@ -1,7 +1,7 @@
 ## Script
 ```lua
-local owner = "Upbolt"
-local branch = "revision"
+local owner = "perhapsmaybe"
+local branch = "master"
 
 local function webImport(file)
     return loadstring(game:HttpGetAsync(("https://raw.githubusercontent.com/%s/Hydroxide/%s/%s.lua"):format(owner, branch, file)), file .. '.lua')()
@@ -11,7 +11,7 @@ webImport("init")
 webImport("ui/main")
 ```
 
-# Hydroxide
+# Hydroxide | Modified by perhaps#0309, orginally created by Upbolt
 <i>General purpose pen-testing tool for games on the Roblox engine</i>
 
 Report issues to our Discord server: https://discord.gg/DJxBwAX
